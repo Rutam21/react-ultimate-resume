@@ -47,7 +47,7 @@
         "cp-cli": "^2.0.0",
         "downloadjs": "^1.4.7",
         "formik": "^2.1.2",
-        "framer-motion": "^3.3.0",
+        "framer-motion": "^3.10.6",
         "jss-preset-default": "10.0.3",
         "lodash.capitalize": "^4.2.1",
         "lodash.clonedeep": "^4.5.0",
